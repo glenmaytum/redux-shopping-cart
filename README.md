@@ -45,6 +45,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
+One of the most important aspects going forward will be to use Redux or use reducer
+
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
 ### Analyzing the Bundle Size
